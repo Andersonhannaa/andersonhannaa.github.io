@@ -10,7 +10,7 @@ description: Architecture Student
 author:
   name: Hanna Anderson
   image: profile.jpg
-  say-hello: Hello, I’m <strong>Hanna Anderson</strong>
+  say-hello: Hello, I'm <strong>Hanna Anderson</strong>
   bio: Swedish-American Architecture Student
 
 
@@ -23,7 +23,7 @@ author:
 #pinterest: https://pinterest.com/ # Add your Pinterest handle
 linkedin: https://linkedin.com/in/hanna-anderson-8b38b5232/
 email: mailto:hannanderson04@gmail.com
-phone: (+1) 760 580 22 64
+phone: tel:+17605802264
 
 #-------------------------------
 # Comment Section (Disqus)
