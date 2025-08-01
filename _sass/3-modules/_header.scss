@@ -32,10 +32,11 @@
   
   .logo__link {
     font-size: 30px;
-    font-weight: 700;
+    font-weight: $heading-font-weight;
     letter-spacing: 0.5px;
     color: $dark;
     text-decoration: none;
+    font-family: $heading-font-family;
     &:hover {
       color: $black;
     }
