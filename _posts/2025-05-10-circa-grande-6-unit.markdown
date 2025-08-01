@@ -14,11 +14,12 @@ Very nice
 ### Renderings
 *(Cool picture here)*
 
+
 ### Floorplan
 
 Many house
 
 
-## Pdf
+## Download Pdf to see more
 
 [Download](/images/Hanna_Anderson_studio_2_compressed.pdf)
