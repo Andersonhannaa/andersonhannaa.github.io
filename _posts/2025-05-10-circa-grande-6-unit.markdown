@@ -7,7 +7,7 @@ tags:   Designs
 ---
 
 ## About
-Very nice
+This is my Studio 2 project, where I have explored shapes and materials to design this 6 unit blend in the heart of Escondido. This multi-family residence has a unit blend of 2 studios, 2 one-bd, and 2 two-bd apartments. One of the two-bedroom apartments is ADA complient. 
 
 ***
 
